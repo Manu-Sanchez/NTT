@@ -1,10 +1,10 @@
 # OpenCV
 
-"""
+
 Versión: 0.1
 Last-Update: 2022-11-14
 Author: Manuel Sánchez Mascarell
-"""
+
 ## Working with images
 	
 ### 	Read and Display an Image
@@ -37,3 +37,5 @@ Author: Manuel Sánchez Mascarell
 		|_ 0: flips horizonal
 		|_ 1: flips vertical
 		|_ -1: flips both
+
+
