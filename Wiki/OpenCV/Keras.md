@@ -14,4 +14,4 @@
 ## Preprocess Data
 These are the steps we're going to perform before training the machine learning model
 * MinMaxScaler(feature_range=(0, 1), *, copy=True, clip=False)
-	
+	* X 	
